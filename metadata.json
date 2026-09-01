@@ -1,0 +1,6 @@
+{
+  "name": "Albion Craft Master",
+  "description": "Calculadora em tempo real de lucratividade de fabricação de Cajados Metamorfos em Albion Online (Mercado de Caerleon e Mercado Negro).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

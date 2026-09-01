@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Staff Shaft -->
+    <path
+        android:pathData="M52,38 L56,38 L56,86 L52,86 Z"
+        android:fillColor="#E2A03F" />
+    <path
+        android:pathData="M53,40 L55,40 L55,84 L53,84 Z"
+        android:fillColor="#FFF1B0" />
+
+    <!-- Staff Pommel/Bottom Ring -->
+    <path
+        android:pathData="M50,86 L58,86 L56,92 L52,92 Z"
+        android:fillColor="#C67D15" />
+    <path
+        android:pathData="M54,92 A2,2 0 1,0 54,96 A2,2 0 1,0 54,92 Z"
+        android:fillColor="#10B981" />
+
+    <!-- Metamorph Wings / Crescent Horns (Staff Head) -->
+    <path
+        android:pathData="M54,42 C45,40 34,32 32,20 C38,26 46,28 54,30 C62,28 70,26 76,20 C74,32 63,40 54,42 Z"
+        android:fillColor="#FBBF24" />
+    
+    <!-- Inner Horn Accents -->
+    <path
+        android:pathData="M54,38 C47,36 38,30 36,22 C41,26 48,27 54,28 C60,27 67,26 72,22 C70,30 61,36 54,38 Z"
+        android:fillColor="#D97706" />
+
+    <!-- Core Mystic Crystal Gem (Glowing Emerald Metamorph Core) -->
+    <path
+        android:pathData="M54,23 L61,32 L54,41 L47,32 Z"
+        android:fillColor="#10B981" />
+    <path
+        android:pathData="M54,26 L59,32 L54,38 L49,32 Z"
+        android:fillColor="#34D399" />
+    <path
+        android:pathData="M54,28 L57,32 L54,36 L51,32 Z"
+        android:fillColor="#A7F3D0" />
+
+    <!-- Shifter Claw Accents (Outer Blades) -->
+    <path
+        android:pathData="M38,34 C33,39 28,48 29,56 C32,50 36,44 41,40 Z"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M70,34 C75,39 80,48 79,56 C76,50 72,44 67,40 Z"
+        android:fillColor="#F59E0B" />
+
+    <!-- Energy sparks -->
+    <path
+        android:pathData="M54,16 L55.5,19.5 L59,21 L55.5,22.5 L54,26 L52.5,22.5 L49,21 L52.5,19.5 Z"
+        android:fillColor="#6EE7B7" />
+    <path
+        android:pathData="M32,24 L33,26 L35,27 L33,28 L32,30 L31,28 L29,27 L31,26 Z"
+        android:fillColor="#FDE68A" />
+    <path
+        android:pathData="M76,24 L77,26 L79,27 L77,28 L76,30 L75,28 L73,27 L75,26 Z"
+        android:fillColor="#FDE68A" />
+</vector>
